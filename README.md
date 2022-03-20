@@ -19,8 +19,7 @@
 - [Introduction Of Project](#introduction-of-project)
   - [Features](#features)
   - [Develop With](#develop-with)
-- [Python code introduction](#python-code-introduction)
-- [Installation](#installation)
+- [Include library](#include-library)
 - [License](#license)
 - [Developer Contact](#developer-contact)
 
